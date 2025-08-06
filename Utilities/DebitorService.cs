@@ -1,7 +1,7 @@
 using System;
 using System.Windows;
 
-namespace MusterprojektBie.Classes
+namespace MusterprojektBie.Utilities
 {
     /// <summary>
     /// Beispielklasse für den Classes-Ordner

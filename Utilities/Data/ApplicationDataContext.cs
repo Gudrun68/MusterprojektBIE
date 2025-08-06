@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using MusterprojektBie.Model;
 
-namespace MusterprojektBie.Classes.Data
+namespace MusterprojektBie.Utilities.Data
 {
     /// <summary>
     /// ApplicationDataContext ist die zentrale Klasse für den Datenbankzugriff
